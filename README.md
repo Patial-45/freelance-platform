@@ -1,5 +1,5 @@
 # Freelance-Platform
-Building an online freelance platform with a resume builder involves several steps, from planning and design to development and deployment. Here's a full guide to help you through the process:
+Building an online freelance platform with a resume builder involves several steps, from planning and design to development and deployment.
 
 ### 1. **Planning and Research**
    - **Market Research**: Understand the market, identify competitors, and analyze their strengths and weaknesses.
